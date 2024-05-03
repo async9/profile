@@ -8,7 +8,7 @@ My CV: https://read.cv/async9
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,redux,next,css,sass,vite,nodejs,strapi)](https://skillicons.dev)
 
-  <br />  <br />
+##
 
 ### 📫 How to reach me
 
@@ -18,14 +18,13 @@ My CV: https://read.cv/async9
   https://www.linkedin.com/in/max-z
 </div>
 
-  <br />  <br />
-
+##
 
 ### ⚡ What I do 
 
 As a web developer, I specialize in creating custom solutions that bring your business ideas to life. With expertise in translating design concepts from Figma to the web, I can turn your vision into a functional and visually appealing website or application that meets your specific needs.
-<br />
 
+##
   
 ### 🖼️ My artworks I did as a hobby
 <div>
