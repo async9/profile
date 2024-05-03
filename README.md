@@ -6,7 +6,7 @@ My CV: https://read.cv/async9
 
 ### 💻 Tech stack
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,next,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,redux,next,css,sass,vite,strapi)](https://skillicons.dev)
 
 
 ### 📫 How to reach me
