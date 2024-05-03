@@ -1,12 +1,12 @@
 ## Hi there 👋
 
-I’m a Front-end Developer at Arounda <br/>
+I’m a Web Dev with a strong focus on Front-end<br/>
 Have 4+ years of experience <br/>
 My CV: https://read.cv/async9
 
 ### 💻 Tech stack
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,redux,next,css,sass,vite,strapi)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,redux,next,css,sass,vite,node,strapi)](https://skillicons.dev)
 
 
 ### 📫 How to reach me
