@@ -8,6 +8,7 @@ My CV: https://read.cv/async9
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,redux,next,css,sass,vite,nodejs,strapi)](https://skillicons.dev)
 
+  <br />  <br />
 
 ### 📫 How to reach me
 
@@ -16,6 +17,8 @@ My CV: https://read.cv/async9
   <br />
   https://www.linkedin.com/in/max-z
 </div>
+
+  <br />  <br />
 
 
 ### ⚡ What I do 
