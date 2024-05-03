@@ -26,7 +26,7 @@ As a web developer, I specialize in creating custom solutions that bring your bu
 
 ##
   
-### 🖼️ My artworks I did as a hobby
+### 🖼️ Hobby
 <div>
   https://www.artstation.com/async99
 </div>
